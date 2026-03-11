@@ -1,1 +1,4 @@
 wpl-analysis/
+.vscode/
+notebooks/.ipynb_checkpoints/
+notebooks/.jupyter/
